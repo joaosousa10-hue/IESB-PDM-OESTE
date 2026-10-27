@@ -1,0 +1,2 @@
+Copie App.js e a pasta src/ para dentro do projeto Expo criado em praticas/Gerenciador-despesas
+(substituindo o App.js gerado). Veja os comandos no chat.
